@@ -1,0 +1,28 @@
+Models
+
+1) Users
+- name
+- ava
+- username
+- interests
+- region
+- email
+
+2) Events
+- name
+- type
+- photo
+- location
+- date
+- free
+- info
+- user_id
+
+3) Comments
+- text
+- user_id
+- event_id
+
+4) Subscriptions
+- user_id
+- event_id
